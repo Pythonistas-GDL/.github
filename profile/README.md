@@ -1,7 +1,7 @@
 ## Hola entusiasta de Python 👋
 
 <p align="center">
-  <img src="https://pythonistas-gdl.org/images/pythonistas.jpeg" alt="Pythonistas GDL" width="350" />
+  <img src="https://pythonistas-gdl.org/images/pythonistas_gdl_26rt.png" alt="Pythonistas GDL" width="350" />
 </p>
 
 Te damos la bienvenida al GitHub de **Pythonistas GDL**, la comunidad de Python de la ciudad de Guadalajara, Jalisco, México 🇲🇽.
